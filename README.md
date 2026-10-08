@@ -4,7 +4,7 @@
 
 PS3ToPC converts PlayStation 3 Legacy Console Edition Minecraft saves (`GAMEDATA` / McRegion) into Java Edition Anvil worlds.
 
-The repository keeps the conversion engine small and dependency-light. The desktop application adds a polished, native-looking dark interface: choose the PS3 save folder, choose where the converted world should be created, then press **CONVERTI MONDO**. The program automatically searches the selected folder for `GAMEDATA`.
+The repository keeps the conversion engine small and dependency-light. The desktop application adds a polished, native-looking dark interface: choose the PS3 save folder, choose where the converted world should be created, then press **CONVERT WORLD**. The program automatically searches the selected folder for `GAMEDATA`.
 
 ## Features
 
