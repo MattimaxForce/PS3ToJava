@@ -1,0 +1,3 @@
+# No third-party packages are required to run the converter.
+# Tkinter is part of standard Python on Windows and macOS; on some Linux
+# distributions it is provided by a separate OS package (for example python3-tk).

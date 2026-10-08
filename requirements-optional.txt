@@ -1,0 +1,2 @@
+# Optional accelerator used automatically by the converter when available.
+numpy>=1.26
