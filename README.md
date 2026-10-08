@@ -1,4 +1,4 @@
-# PS3ToPC
+# PS3ToPC/PS3ToJava
 
 **PS3 Legacy Console Edition → Minecraft Java Edition**
 
